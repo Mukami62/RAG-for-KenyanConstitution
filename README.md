@@ -28,6 +28,8 @@ LLM generation with ChatGroq (LLaMA 3.1-8B instant).
 
 RAG pipeline to combine retrieval and generation for accurate answers.
 
+User interface creation
+
 **Results**
 
 Successfully retrieved relevant articles from the Constitution for example questions such as:
@@ -39,6 +41,8 @@ Successfully retrieved relevant articles from the Constitution for example quest
 The system produces concise, beginner-friendly answers.
 
 Retrieval ensures that the LLM answers are grounded in the actual Constitution text.
+
+A user interface was created using gradio
 
 **Future Work**
 
